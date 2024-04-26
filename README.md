@@ -59,6 +59,3 @@
 <img src="https://leetcard.jacoblin.cool/hildabur_javadev?theme=dark" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HildaburJavaDev&theme=dark&background=000000)](https://git.io/streak-stats)
-
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HildaburJavaDev&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
