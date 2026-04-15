@@ -27,7 +27,7 @@
 <h1>
   :man_technologist: About Me :
  </h1>
-<p> <strong> Software Engineer (Java/C#) | CTO at Rauffe </strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Novosibirsk (Russia). <strong> 23 years old </strong><p>
+<p> <strong> Software Engineer (Java/C#) | CTO at Rauffe </strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Novosibirsk (Russia). <strong> 26 years old </strong><p>
 <ul>
 <li> :telescope: I work as a backend developer and teach at a programming college. </li>
 <li> :seedling: Exploring Technical Content Writing. </li>
